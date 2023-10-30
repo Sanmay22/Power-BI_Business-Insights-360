@@ -1,23 +1,24 @@
 # Business-Insights-360
  
-As an enthusiastic Data Analyst, I have crafted comprehensive reports using Power BI that provide invaluable insights for various departments, enabling them to make well-informed, data-driven decisions. These reports encompass the domains of Finance, Sales, Supply Chain, and Marketing, and offer an Executive view, meticulously tracking Key Performance Indicators (KPIs) across all organizational sectors.
+**Problem statement:** AtliQ hardware has become one of the fastest growing company in the electronic goods market. Though they grew substantially, they had some bitter experiences in Latin America. This is because they were still using excel files for analysis though their data records are more than 1 Million. Also due to the lack of effective analytics. Senior executives of this company have decided to invest in a data analytics project and take effective decisions from effective analysis.
 
-**<h3>Finance View:</h3>** Take a deep dive into P&L statements, Net Sales Performance Trends, and analysis of top-performing Products and Customers based on various parameters.
+**Finance View:** Take a deep dive into P&L statements, Net Sales Performance Trends, and analysis of top-performing Products and Customers based on various parameters.
 
-**<h3>Sales View:</h3>** Immerse yourself in Customer and Product Performances, dissect Performance matrices with Net Sales (NS) and Gross Margin (GM) percentages. Explore Unit economics with COGS and deductions.
+**Sales View:** Immerse yourself in Customer and Product Performances, dissect Performance matrices with Net Sales (NS) and Gross Margin (GM) percentages. Explore Unit economics with COGS and deductions.
 
-**<h3>Marketing View:</h3>** Discover insights into Product Performance, Regional and Customer Performances. Evaluate GM% & NP% Performance across different segments. Also, explore Unit economics with COGS, Operational expenses, and NP.
+**Marketing View:** Discover insights into Product Performance, Regional and Customer Performances. Evaluate GM% & NP% Performance across different segments. Also, explore Unit economics with COGS, Operational expenses, and NP.
 
-**<h3>Supply Chain View:</h3>** Investigate Forecast Accuracy, Net Error and ABS Error. Track Accuracy/Net Error Trends and dive into key metrics by Product.
+**Supply Chain View:** Investigate Forecast Accuracy, Net Error and ABS Error. Track Accuracy/Net Error Trends and dive into key metrics by Product.
 
-**<h3>Executive view:</h3>** Integrated view of key insights for executives. Gain strategic insights into market share trends, identify the top 5 customers and products, and analyse revenue trends.
+**Executive view:** Integrated view of key insights for executives. Gain strategic insights into market share trends, identify the top 5 customers and products, and analyse revenue trends.
 
-**<h3>Rankings:</h3>** Get the top 5 products and bottom 5 products based on GM % growth YoY and the post discounts % trend for each of these customers. 
+**Rankings:** Identify the top 5 products and bottom 5 products based on GM % growth YoY and the post discounts % trend for each of these customers. 
 
-**<h3>Tech Stacks:</h3>**
+**Tech Stacks:**
 * SQL
-* PowerBI Desktop
+* PowerBI Desktop and Services
 * Excel
+* Power Query Editor
 * DAX language
 * DAX Studio
 
