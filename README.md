@@ -2,7 +2,7 @@
  
 As an enthusiastic Data Analyst, I have crafted comprehensive reports using Power BI that provide invaluable insights for various departments, enabling them to make well-informed, data-driven decisions. These reports encompass the domains of Finance, Sales, Supply Chain, and Marketing, and offer an Executive view, meticulously tracking Key Performance Indicators (KPIs) across all organizational sectors.
 
-**Financial View:** Delve deep into the Profit and Loss statements, analyze the trends in Net Sales Performance, and conduct an examination of top-performing Products and Customers using various criteria.
+**<h3>Financial View:</h3>** Delve deep into the Profit and Loss statements, analyze the trends in Net Sales Performance, and conduct an examination of top-performing Products and Customers using various criteria.
 
 **Sales View:** Immerse yourself in the performance of both Customers and Products. Dissect performance metrics, including Net Sales and Gross Margin percentages, and explore unit economics involving the Cost of Goods Sold (COGS) and deductions.
 
