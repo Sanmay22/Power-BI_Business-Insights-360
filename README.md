@@ -12,7 +12,24 @@
 
 **Executive view:** Integrated view of key insights for executives. Gain strategic insights into market share trends, identify the top 5 customers and products, and analyse revenue trends.
 
-**Rankings:** Identify the top 5 products and bottom 5 products based on GM % growth YoY and the post discounts % trend for each of these customers. 
+**Rankings:** Identify the top 5 products and bottom 5 products based on GM % growth YoY and the post discounts % trend for each of these customers.
+
+
+**Business related terms:**
+* Gross price
+* Pre-invoice deductions
+* Post-Invoice deductions
+* Net Invoice sale
+* Gross Margin
+* Net sales
+* Net profit
+* COGC - cost of goods sold
+* YTD - Year to Date
+* YTG - Year to Go
+* Direct
+* Retailer
+* Distributors
+* Consumer
 
 **Tech Stacks:**
 * SQL
